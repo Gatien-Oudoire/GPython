@@ -1,0 +1,9 @@
+a = 5
+b = "c"
+c = 0.5
+d = Vrai
+
+imprimer(c)
+
+si c > a et d:
+    imprimer("Plus grand")
